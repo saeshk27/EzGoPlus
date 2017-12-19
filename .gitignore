@@ -1,2 +1,8 @@
 *.class
 target/
+build/
+servers/
+bin/
+.settings/
+.project
+.classpath
