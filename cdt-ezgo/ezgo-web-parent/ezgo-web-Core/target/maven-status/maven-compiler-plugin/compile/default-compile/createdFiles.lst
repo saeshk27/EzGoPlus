@@ -1,0 +1,13 @@
+com\ezgo\web\pojo\User.class
+com\ezgo\web\legacy\db\DBSlave$UserBuilder.class
+com\ezgo\web\pojo\DBHealthCheck.class
+com\ezgo\web\pojo\group\UserStatus.class
+com\ezgo\web\db\EzgoCollections.class
+com\ezgo\web\legacy\db\EzgoMongoConnection.class
+com\ezgo\web\legacy\db\DBSlave$1.class
+com\ezgo\web\pojo\group\UserType.class
+com\ezgo\web\legacy\dao\DBHealthCheckLegacyDao.class
+com\ezgo\web\service\HealthCheckService.class
+com\ezgo\web\sample\App.class
+com\ezgo\web\pojo\BaseKeyedObject.class
+com\ezgo\web\legacy\db\DBSlave.class

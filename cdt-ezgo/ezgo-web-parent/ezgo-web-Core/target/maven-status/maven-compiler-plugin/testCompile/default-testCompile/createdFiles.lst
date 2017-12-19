@@ -1,0 +1,3 @@
+com\ezgo\web\legacy\db\MongoConnectionTest.class
+com\ezgo\web\legacy\service\HealthCheckServiceTest.class
+com\ezgo\web\legacy\dao\DBHealthCheckLegacyDaoTest.class
